@@ -43,7 +43,7 @@ To set up the project locally and start contributing, follow these steps:
 
 # Contact
 
-If you encounter any issues, have suggestions, or need any assistance, feel free to create an issue in the repository. You can also contact the project maintainer at hahsirnpofficial@gmail.com.
+If you encounter any issues, have suggestions, or need any assistance, feel free to create an issue in the repository. You can also contact the project maintainer at hashirnpofficial@gmail.com.
 
   
 
